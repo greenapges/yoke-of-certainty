@@ -1,0 +1,41 @@
+/* General page styling */
+body {
+  font-family: 'Georgia', serif;
+  background: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header section */
+header {
+  background: #2c3e50;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+/* Main content area */
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Insight section */
+section {
+  margin-bottom: 2rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #34495e;
+  color: white;
+}
